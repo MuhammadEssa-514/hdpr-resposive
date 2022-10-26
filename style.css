@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#main{
+    background-color: gray;
+    text-align: center;
+}
+.head{
+    font-size: 30px;
+}
+.main-1{
+    background-color: antiquewhite;
+}
+.main-2{
+    background-color: aqua;
+}
+.main-3{
+    background-color: blueviolet;
+}
+
+button{
+    background-color: gray;
+    border-style: none;
+    height: 30px;
+    width: 90px;
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color:black;
+    color: white;
+    transition: all 1s;
+    border-radius: 20px;
+}
